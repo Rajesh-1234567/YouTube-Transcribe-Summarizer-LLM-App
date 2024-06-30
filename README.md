@@ -1,1 +1,1 @@
-# YouTube-Transcribe-Summarizer-LLM-App
+# YouTube Transcribe Summarizer LLM App
